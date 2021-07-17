@@ -1,0 +1,6 @@
+In mathematical optimization, the method of Lagrange multipliers is a strategy for finding the local maxima and minima of a function subject to equality constraints (i.e., subject to the condition that one or more equations have to be satisfied exactly by the chosen values of the variables).
+
+############################
+This code first asks for the Max / Min constraint of the equation, then takes the equation. They must be integers. After this step, the constraint function takes over and enters the main menu. In the main menu, there are selectable options for calculation. It also calculates the values (x1, x2, Lambda, f (x) and the matrix P, Q, HB, and the last option of the program is exited.
+#############################
+#Writer :Kiana kheiri
